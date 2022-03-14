@@ -1,0 +1,19 @@
+header{
+    height: auto;
+}
+
+.header--background{
+    background-image: url(https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/QQWVSJ6MDVGKRELX455KIABEEY.gif);
+    height: 200px;
+    background-position: 45% 33%;
+    height: 200px;
+    width: 100%;
+}
+
+header>h1{
+    margin: 32px 0;
+    font-family: 'Pangolin', cursive;
+    font-size: 48px;
+    color: white;
+
+}

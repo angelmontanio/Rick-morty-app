@@ -1,0 +1,23 @@
+.LocationInfo{
+    margin-top: 20px;
+    height: auto;
+}
+
+.info{
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+@media (max-width: 540px) {
+    
+    .info {
+      flex-direction: column;
+    }
+
+  }
