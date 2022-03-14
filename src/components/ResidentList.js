@@ -3,7 +3,6 @@ import ResidentInfo from './ResidentInfo';
 import './ResidentList.css'
 
 const ResidentList = ({residents}) => {
-    console.log(residents)
     return (
         <div className='Resident-list'>
             <h3>Residents</h3>
