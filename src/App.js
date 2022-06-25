@@ -22,6 +22,7 @@ function App() {
     
     <div className="App">
       <Header/>
+      <p>Esto es un cambio de prueba</p>
       <div className="container">
         <SearchBox setDimencion={(setDimencion)}/>
         <LocationInfo dimencion={dimencion}/>
